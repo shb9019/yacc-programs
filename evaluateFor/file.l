@@ -9,7 +9,7 @@ ALPHA [A-Za-z]+
 %%
 
 [\t \n] 
-for     return FOR;
+for return FOR;
 int return TYPE;
 float return TYPE;
 double return TYPE;
